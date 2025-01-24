@@ -1,3 +1,4 @@
 chave.log
 login/
 *.log
+.gitignore
